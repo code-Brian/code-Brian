@@ -2,7 +2,7 @@
 ![cannonbreed_rest-area](https://user-images.githubusercontent.com/89549557/186030419-d552c0bf-be38-4f18-98f4-48a94d41caae.gif)
 
 
-- 🔭 I’m currently working on learning Python.
+- 🔭 I’m currently working on completing the full stack developer certification at Coding Dojo!
 - 🌱 I’m currently learning Python, Flask, Jinja2, MySQL and other frameworks.
 - 👯 I’m looking to collaborate on Arduino starter suggestions, anything done in Unity.
 - 🤔 I’m looking for help with getting started as a professional dev. I'm very passionate about technology, and staying curious.
