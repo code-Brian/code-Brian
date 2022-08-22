@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**code-Brian/code-Brian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello coder! You look tired. Rest a bit here and continue your journey ...
+<div class="tenor-gif-embed" data-postid="16368928" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/dark-souls-bonfire-rest-warm-gif-16368928">Dark Souls Bonfire GIF</a>from <a href="https://tenor.com/search/dark+souls-gifs">Dark Souls GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
